@@ -11,6 +11,7 @@
 ![swiftui](https://img.shields.io/badge/SwiftUI-2D2E83?&amp;style=for-the-badge&amp;logo=Swift&amp;logoColor=white)
 
 ### Using
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
@@ -25,8 +26,6 @@
 [![Tistory](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logoColor=white)](https://wondev.tistory.com/)
   
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=220v-K&show_icons=true&count_private=true" alt="220v-K" />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=220v-K&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=220v-K)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
