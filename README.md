@@ -1,3 +1,22 @@
+# 이재원 Jaewon Lee
+  
+  
+## 🌱 Experience & 📖 Education & 💼 Career
+**Apple Developer Academy @ POSTECH 2nd**
+- 2023.03 ~ 2023.12
+- iOS Developer
+  
+**EatingBear**
+(주) 이팅베어
+- 2022.02 ~ 2023.02
+- Mobile Application Developer(iOS Native, Flutter)
+
+**Dongguk Univ.**
+- 2020.03 ~
+- Computer Science and Engineering
+
+  
+
 ### Study With
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
@@ -15,8 +34,6 @@
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![swiftui](https://img.shields.io/badge/SwiftUI-2D2E83?&amp;style=for-the-badge&amp;logo=Swift&amp;logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ### Using
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -36,21 +53,7 @@
 ### Blog
 [![Tistory](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logoColor=white)](https://wondev.tistory.com/)
   
+
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=220v-K&show_icons=true&count_private=true" alt="220v-K" />
 
-
-
-<!--
-**220v-K/220v-K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F220v-K&count_bg=%23FFB7BF&title_bg=%2361605A&icon=apachespark.svg&icon_color=%23ECECEC&title=NTMU%21&edge_flat=false)](https://hits.seeyoufarm.com)  
