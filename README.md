@@ -1,7 +1,7 @@
 # 이재원 Jaewon Lee
 
 ### Portfolio
-[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Jaewon-Lee-dce765fd290b4bb8a0abf3f6fc8e12b9?pvs=4)
+[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Jaewon-Lee-dce765fd290b4bb8a0abf3f6fc8e12b9?pvs=4)  
   
 ## 🌱 Experience & 📖 Education & 💼 Career
 **Apple Developer Academy @ POSTECH 2nd**
@@ -54,6 +54,7 @@
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)  
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) - jwlee010222@gmail.com  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/jeck_mu/)  
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaewon-lee-361b85258/)  
   
 ### Blog
 [![Tistory](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logoColor=white)](https://wondev.tistory.com/)
