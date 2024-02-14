@@ -21,7 +21,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F220v-K&count_bg=%23FFB7BF&title_bg=%2361605A&icon=apachespark.svg&icon_color=%23ECECEC&title=NTMU%21&edge_flat=false)](https://hits.seeyoufarm.com)  
 
 ---
-
+<!--
 ### Interested in
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![swiftui](https://img.shields.io/badge/SwiftUI-2D2E83?&amp;style=for-the-badge&amp;logo=Swift&amp;logoColor=white)
@@ -37,7 +37,6 @@
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-<!--
 ### Study With
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
