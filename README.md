@@ -30,6 +30,5 @@
 [![Tistory](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logoColor=white)](https://wondev.tistory.com/)
   
 
-[![Jeckmu's GitHub stats](https://github-readme-stats.vercel.app/api?username=220v-K)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=220v)](https://solved.ac/220v/)
 
