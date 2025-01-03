@@ -4,17 +4,22 @@
 [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Jaewon-Lee-dce765fd290b4bb8a0abf3f6fc8e12b9?pvs=4)  
   
 ## 🌱 Experience & 📖 Education & 💼 Career
+**ETRI (Electronics and Telecommunications Research Institute)**
+- 2025.01-2025.02
+- Social Robotics Research Lab
+- Research Intern
+
 **Apple Developer Academy @ POSTECH 2nd**
-- 2023.03 ~ 2023.12
+- 2023.03-2023.12
 - iOS Developer
   
 **EatingBear**
 (주) 이팅베어
-- 2022.02 ~ 2023.02
+- 2022.02-2023.02
 - Mobile Application Developer(iOS Native, Flutter)
 
 **Dongguk Univ.**
-- 2020.03 ~
+- 2020.03-
 - Computer Science and Engineering
 
   
