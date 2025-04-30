@@ -20,12 +20,9 @@
 
 **Dongguk Univ.**
 - 2020.03-
-- Computer Science and Engineering
-
+- Computer Science and Engineering  
   
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F220v-K&count_bg=%23FFB7BF&title_bg=%2361605A&icon=apachespark.svg&icon_color=%23ECECEC&title=NTMU%21&edge_flat=false)](https://hits.seeyoufarm.com)  
   
-
 ### Connect
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) - jwlee010222@gmail.com  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/jeck_mu/)  
