@@ -4,9 +4,13 @@
 [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Jaewon-Lee-dce765fd290b4bb8a0abf3f6fc8e12b9?pvs=4)  
   
 ## 🌱 Experience & 📖 Education & 💼 Career
+**UTL Lab @ Korea Univ.**
+- 2025.05-
+- B.S. Intern
+
 **ION Lab @ Dongguk Univ.**
 - 2024.07-2025.04
-- BS Intern
+- B.S. Intern
   
 **ETRI (Electronics and Telecommunications Research Institute)**
 - 2025.01-2025.02
