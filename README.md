@@ -17,7 +17,7 @@
 - Social Robotics Research Lab
 - Research Intern
   
-**Apple Developer Academy @ POSTECH 2nd**
+**Apple Developer Academy @ POSTECH Cohort 2023 (2nd)**
 - 2023.03-2023.12
 - iOS Developer
   
