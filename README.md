@@ -5,8 +5,12 @@
   
 ## 🌱 Experience & 📖 Education & 💼 Career
 **UTL Lab @ Korea Univ.**  
+고려대학교 김동현 교수님, Universal Transfer Learning Lab, 석박사통합과정
+- 2026.03-
+- MS/PhD Integrated
+  
 고려대학교 김동현 교수님, Universal Transfer Learning Lab, 학부 인턴
-- 2025.05-
+- 2025.05-2026.02
 - B.S. Intern
 
 **ION Lab @ Dongguk Univ.**  
